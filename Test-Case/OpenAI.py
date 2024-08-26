@@ -1,8 +1,8 @@
 import requests
 import json
 
-# Replace with your actual API key
-api_key = "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"
+
+api_key = "sk-or-v1-TESTYOURAPI"
 
 #InputTest
 user_input = input("Enter your message: ")
